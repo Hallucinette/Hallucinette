@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello word ! 👋
 
 <!--
 **Hallucinette/Hallucinette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I'm Amelie, a junior iOS developer passionate about Swift and SwiftUI
+- :speech_balloon: Spanish and French
+- 💻 Langages: Swift, SwiftUI, basic UIkit
+- 📱 Plateformes: iOS
+- 🔧 Outils: Xcode, Git, Jira, Agile
+- 🎨 Design: Interface Builder, Figma, Zeplin
