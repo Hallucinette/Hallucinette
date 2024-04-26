@@ -1,4 +1,5 @@
 ### Hello word ! 👋
+<br>
 
 <!--
 **Hallucinette/Hallucinette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,3 +21,7 @@ Here are some ideas to get you started:
 - 📱 Plateformes: iOS
 - 🔧 Outils: Xcode, Git, Jira, Agile
 - 🎨 Design: Interface Builder, Figma, Zeplin
+<br>
+<br>
+
+*I am a huge fan of Game of Thrones and its universe*
