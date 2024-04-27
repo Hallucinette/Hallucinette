@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - :speech_balloon: Spanish and French
 - 💻 Langages: Swift, SwiftUI, basic UIkit
 - 📱 Plateformes: iOS
-- 🔧 Outils: Xcode, Git, Jira, Agile
+- 🔧 Outils: Xcode, Git, Jira, Postman
 - 🎨 Design: Interface Builder, Figma, Zeplin
 <br>
 <br>
