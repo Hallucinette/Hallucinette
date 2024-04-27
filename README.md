@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-*I am a huge fan of Game of Thrones and its universe*
+*I am a huge fan of Game of Thrones and his universe*
