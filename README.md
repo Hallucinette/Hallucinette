@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I'm Amelie, a junior iOS developer passionate about Swift and SwiftUI
+- 🌱 I'm Amelie, a junior iOS developer passionate about Swift and SwiftUI and 42 student
 - :speech_balloon: Spanish and French
 - 💻 Langages: Swift, SwiftUI, basic UIkit
 - 📱 Plateformes: iOS
