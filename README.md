@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 -->
 - 🌱 I'm Amelie, a junior iOS developer passionate about Swift and SwiftUI and 42 student
 - :speech_balloon: Spanish and French
-- 💻 Langages: Swift, SwiftUI, basic UIkit
-- 📱 Plateformes: iOS
-- 🔧 Outils: Xcode, Git, Jira, Postman
+- 💻 Langages: Swift, SwiftUI, basic UIkit, React19, CSS, TypeScript, Vite, Docker
+- 📱 Plateformes: iOS, Web
+- 🔧 Outils: Xcode, Git, Jira, Postman, Swagger,
 - 🎨 Design: Interface Builder, Figma, Zeplin
 <br>
 <br>
